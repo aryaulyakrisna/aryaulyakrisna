@@ -1,16 +1,13 @@
-## Hi there 👋
+# Arya Ulya Krisna
 
-<!--
-**aryaulyakrisna/aryaulyakrisna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+Saya adalah seorang pelajar jurusan Informatika di Universitas Gunadarma yang memiliki minat dan keahlian dalam pengembangan web, baik frontend maupun backend.  
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
+- **Frontend:** React, Vite, Astro, Tailwind CSS  
+- **Backend:** Express.js, Golang (Gin, Fiber)  
+- **Database:** PostgreSQL, MySQL, MongoDB  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- 📧 Email: [aryaulyakrisna@gmail.com]  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/arya-ulya-krisna-92a93b245]   
