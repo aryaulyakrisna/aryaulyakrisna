@@ -9,5 +9,5 @@ Saya adalah seorang pelajar jurusan Informatika di Universitas Gunadarma yang me
 - **Database:** PostgreSQL, MySQL, MongoDB  
 
 ## 📫 Contact Me
-- 📧 Email: [aryaulyakrisna@gmail.com]  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/arya-ulya-krisna-92a93b245]   
+- 📧 Email: [aryaulyakrisna@gmail.com](aryaulyakrisna@gmail.com)  
+- 🔗 LinkedIn: [Arya Ulya Krisna](https://www.linkedin.com/in/arya-ulya-krisna-92a93b245)   
